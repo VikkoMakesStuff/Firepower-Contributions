@@ -30,21 +30,21 @@ If the user is Overclocked, then all primary weapons will fire twice as fast.
 
 * ‎Type 1: Machine Guns  
 ‎Consistency is key. Shoots out heavy-hitting bullets with a decent firerate.  
-Walk speed is reduced to 50 while firing, and uses up 5 ammo per shot.
-Damage: 3 per bullet
+Walk speed is reduced to 50 while firing, and uses up 5 ammo per shot.  
+Damage: 3 per bullet  
 ‎Firerate: 0.05s
 
 * Type 2: Shotguns  
 Get the job done quick. Shoots out 6 pellets with slight spread. High burst damage, but comes with a slower firerate.  
 Unlike the other primaries, all 4 shotguns fire at the same time.  
-Walk speed is reduced to 60 while firing, and uses up 25 ammo per shot. (for each shotgun btw)
-‎Damage: 1.5 per pellet  
+Walk speed is reduced to 60 while firing, and uses up 25 ammo per shot. (for each shotgun btw)  
+Damage: 1.5 per pellet  
 ‎Firerate: 0.5s
 ‎
 * ‎Type 3: Gatling Guns  
 ‎Lay waste to them all. Shoots out smaller, less powerful bullets with slight spread, but has a much faster firerate, and also speeds up as the user keeps firing.  
-Walk speed is reduced to 40 while firing, and uses up 1 ammo per shot.  
-‎(no these gatling guns DO NOT have to rev up before firing we arent going with this trope)
+Walk speed is reduced to 40 while firing, and uses up 1 ammo per shot.
+(no these gatling guns DO NOT have to rev up before firing we arent going with this trope)  
 ‎Damage: 1 per bullet  
 ‎Firerate: Starts at 0.03s, exponentially speeds up to 0.01s minimum
 
