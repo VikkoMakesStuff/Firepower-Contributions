@@ -1,6 +1,8 @@
 # Project-Firepower
 A Roblox require-style script with one main selling point; Guns. Big, floating guns. And YOU get to control all of them!
 
+Made by v05n, with the help of @VikkoMakesStuff
+
 ## Introduction
 
 Project: Firepower spawns ‎you with the following weapons:
