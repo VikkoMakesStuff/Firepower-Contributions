@@ -18,8 +18,8 @@ You'll also spawn with a hovering platform that you stand on, which generates a 
 ## Stats
 
 MaxHealth: 200  
-Walkspeed: 70  
-Jumppower: 80  
+Walkspeed: 60  
+Jumppower: 70  
 Ammo: 1,000
 
 ## Moveset
@@ -39,20 +39,20 @@ Damage: 3 per bullet
 * Type 2: Shotguns  
 Get the job done quick. Shoots out 6 pellets with slight spread. High burst damage, but comes with a slower firerate.  
 Unlike the other primaries, all 4 shotguns fire at the same time.  
-Walk speed is reduced to 60 while firing, and uses up 25 ammo per shot. (for each shotgun btw)  
+Walk speed is reduced to 55 while firing, and uses up 25 ammo per shot. (for each shotgun btw)  
 Damage: 1.5 per pellet  
 ‎Firerate: 0.5s
 ‎
 * ‎Type 3: Gatling Guns  
 ‎Lay waste to them all. Shoots out smaller, less powerful bullets with slight spread, but has a much faster firerate, and also speeds up as the user keeps firing.  
-Walk speed is reduced to 40 while firing, and uses up 1 ammo per shot.
+Walk speed is reduced to 45 while firing, and uses up 1 ammo per shot.
 (no these gatling guns DO NOT have to rev up before firing we arent going with this trope)  
 ‎Damage: 1 per bullet  
 ‎Firerate: Starts at 0.03s, exponentially speeds up to 0.01s minimum
 
 
 ### Q: Warp  
-‎The user instantly teleports 40 studs from their original position, directed by the direction they're moving.  
+‎The user instantly teleports 50 studs from their original position, directed by the direction they're moving.  
 ‎Cooldown: 2s
 ‎
 
@@ -71,7 +71,7 @@ This move stops once the user, either stops holding, or fully recharges their am
 
 ### F: Primary Switch  
 ‎The user emits a flash of light, switching their primary to the next type.  
-‎Cooldown: 0.25s
+‎Cooldown: 0.5s
 ‎
 
 ### G: Reconstruction  
