@@ -26,7 +26,7 @@ Ammo: 1,000
 
 ### ‎M1: Raw Firepower  
 ‎While held, the user points their hand towards their cursor position and starts firing their primary weapons, using up ammo in the process.  
-This move varies depending on what primary the user has. Jump power is reduced to 60 while firing.  
+This move varies depending on what primary the user has. Jump power is reduced to 50 while firing.  
 The user can use most moves while this move is active.  
 If the user is Overclocked, then all primary weapons will fire twice as fast.
 
